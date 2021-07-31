@@ -15,7 +15,7 @@
 
 ### setting up the project
 
-`git clone `
+`git clone https://github.com/himansh-gjr/Random-User-Generator-app`
 
 `cd contacts-manager`
 
